@@ -3,7 +3,7 @@
 </h1>
  <div align=center>
   <a href="https://github.com/cifernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando&show_icons=true&title_color=(0, 100%, 100%)&bg_color=DEG,(0,100&,100%),(215, 25%, 40%)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando&show_icons=true&title_color=(0, 100%, 100%)&bg_color=(215, 25%, 40%)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cifernando&layout=compact"/>
 </div>
 <div align=center style="display: inline_block"><br>
