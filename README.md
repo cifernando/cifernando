@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/cifernando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cifernando&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cifernando"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
