@@ -1,7 +1,7 @@
 ## Oiii! Eu sou Fernando Oliveira
  <div>
   <a href="https://github.com/cifernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cifernando&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
