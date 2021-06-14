@@ -1,7 +1,9 @@
-## Oiii! Eu sou Fernando Oliveira
+<h1 align='center'>
+  Hi there 👋 I'm Fernando 👨‍💻
+</h1>
  <div>
   <a href="https://github.com/cifernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cifernando&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cifernando&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
