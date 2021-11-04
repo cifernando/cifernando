@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Fernando 👨‍💻
+  OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
  <div align=center>
   <a href="https://github.com/cifernando">
