@@ -5,10 +5,12 @@
   Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀. 
 <br />
 <br />
-<h1>Meus interesses pessoais:</h1>
+<h2>Meus interesses pessoais:</h2>
 
   <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="300px">
 
+<br />
+<br />
 - 👨🏽‍💻 Estou estudando Typescript e NextJs;
 - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
 - 🤔 Meus hobbies são mecânica de motos e jogos online;
@@ -17,6 +19,8 @@
 - 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
 
+<br />
+<br />
 <br />
 <br />
 <br />
