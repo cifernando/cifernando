@@ -20,9 +20,7 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
+
  <div align=center>
   <a href="https://github.com/cifernando">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cifernando&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=45,B3BDCC,8596AD,52637A"/>
