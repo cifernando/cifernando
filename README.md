@@ -4,7 +4,8 @@
 <br />
   Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀. 
 <br />
-##Meus interesses pessoais:
+<br />
+<h1>Meus interesses pessoais:</h1>
 
   <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="300px">
 
