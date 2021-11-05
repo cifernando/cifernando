@@ -9,7 +9,6 @@
   <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="350px">
 
 <br />
-<br />
 <p>- 👨🏽‍💻 Estou estudando Typescript e NextJs;</p>
 <p>- 🤔 Estou aprimorando meu uso de CSS com o Tailwind e Styled-Components</p>
 <p>- 🌱 Meus hobbies são cantar, tocar piano e violão, fotografar, cozinhar pra minha namorada, plantar coisinhas novas na minha horta;</p>
@@ -18,6 +17,7 @@
 <p>- 📫 Por favor, envie um email para nando.no@outlook.com para me encontrar.</p>
 <p>- 📝 Veja meu Currículo <a href="https://resume.io/r/ZsiBHjvOg" target="_blank">clicando aqui</a> para mais informações.</p>
 
+<br />
 <br />
 <br />
 
