@@ -2,7 +2,7 @@
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
 <br />
-  <h3 align="center">Sou muito curioso! Moro em Vitória da Conquista, Brasil e atualmente sou Estudante na Trybe 🚀.</h3>
+  <h3 align="center">Sou muito curioso! Moro em Vitória da Conquista, Brasil. Atualmente sou Estudante na Trybe 🚀.</h3>
 <br />
 <h2>Meus interesses pessoais:</h2>
 
