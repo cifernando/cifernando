@@ -6,9 +6,7 @@
 
 **Meus interesses pessoais:**
 
-  <div align="right">
-    ![18123-developer](https://user-images.githubusercontent.com/84880811/140514330-08a001eb-8d46-4c83-a690-7b4420f3ec7c.gif)
-  </div>
+  <img align="right" src="https://ibb.co/KNW4sWM">
 
 - 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
 - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
