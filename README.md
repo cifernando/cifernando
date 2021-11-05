@@ -1,14 +1,14 @@
 <h1 align='center'>
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
-<div>
-  Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀. 
-
-**Meus interesses pessoais:**
+<br />
+  Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀. 
+<br />
+##Meus interesses pessoais:
 
   <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="300px">
 
-- 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
+- 👨🏽‍💻 Estou estudando Typescript e NextJs;
 - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
 - 🤔 Meus hobbies são mecânica de motos e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
