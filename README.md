@@ -2,12 +2,11 @@
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
 <br />
-  <h3>Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀.</h3>
-<br />
+  <h3>Sou muito curioso! Moro em Vitória da Conquista, Brasil e Atualmente sou Estudante na Trybe 🚀.</h3>
 <br />
 <h2>Meus interesses pessoais:</h2>
 
-  <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="300px">
+  <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="350px">
 
 <br />
 <br />
@@ -19,7 +18,6 @@
 <p>- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.</p>
 <p>- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.</p>
 
-<br />
 <br />
 <br />
 <br />
