@@ -2,7 +2,7 @@
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
 <br />
-  Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀. 
+  <h3>Olá Olá, sou o Fernando, sou de Vitória da Conquista, Brasil e muito curioso! Atualmente sou Estudante na Trybe 🚀.</h3>
 <br />
 <br />
 <h2>Meus interesses pessoais:</h2>
@@ -11,13 +11,13 @@
 
 <br />
 <br />
-- 👨🏽‍💻 Estou estudando Typescript e NextJs;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+<p>- 👨🏽‍💻 Estou estudando Typescript e NextJs;</p>
+<p>- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;</p>
+<p>- 🤔 Meus hobbies são mecânica de motos e jogos online;</p>
+<p>- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;</p>
+<p>- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;</p>
+<p>- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.</p>
+<p>- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.</p>
 
 <br />
 <br />
