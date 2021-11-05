@@ -2,9 +2,22 @@
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
 <div>
-  <p>
-    OI
-   </p>
+  Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀. 
+
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+- 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
+- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 🤔 Meus hobbies são mecânica de motos e jogos online;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
+- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+
+<br />
+<br />
 </div>
  <div align=center>
   <a href="https://github.com/cifernando">
