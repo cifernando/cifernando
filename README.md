@@ -2,7 +2,7 @@
   OI OI 👋 Eu sou o Fernando 👨‍💻
 </h1>
 <br />
-  <h3 align="center">Sou muito curioso! Moro em Vitória da Conquista, Brasil. Atualmente sou Estudante na Trybe 🚀.</h3>
+  <h3 align="center">Sou muito curioso! Moro em Vitória da Conquista, Brasil. Atualmente sou Desenvolvedor Front-End na Letrus 🚀.</h3>
 <br />
 <h2>Meus interesses pessoais:</h2>
 
@@ -10,12 +10,11 @@
 
 <br />
 <p>- 👨🏽‍💻 Estou estudando Typescript e NextJs;</p>
-<p>- 🤔 Estou aprimorando meu uso de CSS com o Tailwind e Styled-Components</p>
 <p>- 🌱 Meus hobbies são cantar, tocar piano e violão, fotografar, cozinhar pra minha namorada, plantar coisinhas novas na minha horta;</p>
 <p>- 💼 Estou sempre em busca de aprender algo novo para melhorar como profissional e evoluir na minha carreira como desenvolvedor;</p>
 <p>- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;</p>
 <p>- 📫 Por favor, envie um email para nando.no@outlook.com para me encontrar.</p>
-<p>- 📝 Veja meu Currículo <a href="https://resume.io/r/ZsiBHjvOg" target="_blank">clicando aqui</a> para mais informações.</p>
+// <p>- 📝 Veja meu Currículo <a href="https://resume.io/r/ZsiBHjvOg" target="_blank">clicando aqui</a> para mais informações.</p>
 
 <br />
 <br />
