@@ -1,20 +1,20 @@
 <h1 align='center'>
-  OI OI 👋 Eu sou o Fernando 👨‍💻
+  HELLO 👋 I'm Fernando 👨‍💻
 </h1>
 <br />
-  <h3 align="center">Sou muito curioso! Moro em Vitória da Conquista, Brasil. Atualmente sou Desenvolvedor Front-End na Letrus 🚀.</h3>
+  <h3 align="center">I'm very curious! I live in Vitória da Conquista, Brazil. I am currently a Front-End Developer at Letrus 🚀.</h3>
 <br />
-<h2>Meus interesses pessoais:</h2>
+<h2>My personal interests:</h2>
 
   <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="350px">
 
 <br />
-<p>- 👨🏽‍💻 Estou estudando Typescript e NextJs;</p>
-<p>- 🌱 Meus hobbies são cantar, tocar piano e violão, fotografar, cozinhar pra minha namorada, plantar coisinhas novas na minha horta;</p>
-<p>- 💼 Estou sempre em busca de aprender algo novo para melhorar como profissional e evoluir na minha carreira como desenvolvedor;</p>
-<p>- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;</p>
-<p>- 📫 Por favor, envie um email para nando.no@outlook.com para me encontrar.</p>
-<p>- 📝 Veja meu Currículo <a href="https://resume.io/r/ZsiBHjvOg" target="_blank">clicando aqui</a> para mais informações.</p>
+<p>- 👨🏽‍💻 I'm studying Jest and Cypress;</p>
+<p>- 🌱 My hobbies are singing, playing the piano and guitar, photographing, cooking for my girlfriend, planting new things in my garden;</p>
+<p>- 💼 I'm always looking to learn something new to improve as a professional and evolve in my career as a developer;</p>
+<p>- 💬 Ask me anything, I love helping people;</p>
+<p>- 📫 Please email nando.no@outlook.com to find me.</p>
+<p>- 📝 See my resume <a href="https://resume.io/r/ZsiBHjvOg" target="_blank">clicking here</a> for more information.</p>
 
 <br />
 <br />
