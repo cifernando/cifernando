@@ -6,7 +6,7 @@
 <br />
 <h2>My personal interests:</h2>
 
-  <img align="right" src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="200px">
+  <img src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="200px">
 
 <br />
 <p>- 👨🏽‍💻 I'm studying Jest and Cypress;</p>
