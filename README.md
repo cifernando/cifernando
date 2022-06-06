@@ -9,7 +9,7 @@
   <img src="https://i.ibb.co/7gKMpKw/18123-developer.gif" width="200px">
 
 <br />
-<p>- 👨🏽‍💻 I'm studying Jest and Cypress;</p>
+<p>- 👨🏽‍💻 I'm studying web accessibility;</p>
 <p>- 🌱 My hobbies are singing, playing the piano and guitar, photographing, cooking for my girlfriend, planting new things in my garden;</p>
 <p>- 💼 I'm always looking to learn something new to improve as a professional and evolve in my career as a developer;</p>
 <p>- 💬 Ask me anything, I love helping people;</p>
