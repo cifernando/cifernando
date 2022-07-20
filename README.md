@@ -2,7 +2,7 @@
   HELLO 👋 I'm Fernando 👨‍💻
 </h1>
 <br />
-  <h3 align="center">I'm very curious! I live in Vitória da Conquista, Brazil. I am currently a Front-End Developer at Letrus 🚀.</h3>
+  <h3 align="center">I'm very curious! I live in Vitória da Conquista, Brazil. I am currently a Front-End Developer at Mercado Livre 🚀.</h3>
 <br />
 <h2>My personal interests:</h2>
 
