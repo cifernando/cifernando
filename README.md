@@ -10,7 +10,7 @@
 
 <br />
 <p>- 👨🏽‍💻 I'm studying web accessibility;</p>
-<p>- 🌱 My hobbies are singing, playing the piano and guitar, photographing, cooking for my girlfriend, planting new things in my garden;</p>
+<p>- 🌱 My hobbies are singing, playing the piano and guitar, photographing, cook, planting new things in my garden;</p>
 <p>- 💼 I'm always looking to learn something new to improve as a professional and evolve in my career as a developer;</p>
 <p>- 💬 Ask me anything, I love helping people;</p>
 <p>- 📫 Please email nando.no@outlook.com to find me.</p>
